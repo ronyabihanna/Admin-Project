@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h4 class="text-muted p-3 mb-3">Tasks</h4>
+    <!-- task list-->
+    <section>
+    <div class="container-fluid bg-white">
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+        <div class="row py-3 mb-4 task-border align-items-center">
+            <div class="col-1">
+                <input type="checkbox" checked>
+            </div>
+            <div class="col-sm-9 col-8">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </div>
+            <div class="col-1"> 
+                <a href="#" data-toggle="tooltip" 
+                title=" <h6>edit</h6>" data-html ="true"
+                data-placement = "top"><i class=" fas fa-edit fa-log text-sucess mr-2"></i></a>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <!-- activiries / quick post-->
+    <section>
+        <div class="container-fluid">
+            <div class = "row">
+                <div class = "col-xl-10 col-lg-9 col-md-8 ml-auto">
+                    <div class = "row">
+                        <div class="col-xl-7">
+                            <h4 class ="text-muted mb-4">Recent Customer Activities</h4>
+                            <div id="accordion">
+                                <div class = "card" >
+                                    <div class = "card-header">
+                                        <button class="btn btn-block bg-secondary text-light test-left" 
+                                        data-toggle="collapse" data-target="#collapseOne">
+                                                <img src = "" width= "50" class="mr-3 rounded">
+                                                John posted a new comment
+                                        </button>
+
+                                    </div>
+                                    <div class="collapse" id="collapseOne" data-parent="#accordion" >
+                                        <div class="card-body">
+                                            Customer Activities means to design, have designed, make,
+                                            have made, use, import, export, offer for sale, sell and/or otherwise dispose of 
+                                            Transferred IP IC Products and Successor and Combination Version IC Products.
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class = "card"  >
+                                    <div class = "card-header">
+                                        <button class="btn btn-block bg-secondary text-light test-left" 
+                                        data-toggle="collapse" data-target="#collapseTwo">
+                                                <img src = "" width= "50" class="mr-3 rounded">
+                                                Leo posted a new comment
+                                        </button>
+
+                                    </div>
+                                    <div class="collapse" id="collapseTwo" data-parent="#accordion">
+                                        <div class="card-body">
+                                            Customer Activities means to design, have designed, make,
+                                            have made, use, import, export, offer for sale, sell and/or otherwise dispose of 
+                                            Transferred IP IC Products and Successor and Combination Version IC Products.
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class = "card" >
+                                    <div class = "card-header">
+                                        <button class="btn btn-block bg-secondary text-light test-left" 
+                                        data-toggle="collapse" data-target="#collapseThree">
+                                                <img src = "" width= "50" class="mr-3 rounded">
+                                                Marc posted a new comment
+                                        </button>
+
+                                    </div>
+                                    <div class="collapse" id="collapseThree" data-parent="#accordion">
+                                        <div class="card-body">
+                                            Customer Activities means to design, have designed, make,
+                                            have made, use, import, export, offer for sale, sell and/or otherwise dispose of 
+                                            Transferred IP IC Products and Successor and Combination Version IC Products.
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class = "card" >
+                                    <div class = "card-header">
+                                        <button class="btn btn-block bg-secondary text-light test-left" 
+                                        data-toggle="collapse" data-target="#collapseFour">
+                                                <img src = "" width= "50" class="mr-3 rounded">
+                                                Monica posted a new comment
+                                        </button>
+
+                                    </div>
+                                    <div class="collapse" id="collapseFour" data-parent="#accordion">
+                                        <div class="card-body">
+                                            Customer Activities means to design, have designed, make,
+                                            have made, use, import, export, offer for sale, sell and/or otherwise dispose of 
+                                            Transferred IP IC Products and Successor and Combination Version IC Products.
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class = "card" >
+                                    <div class = "card-header">
+                                        <button class="btn btn-block bg-secondary text-light test-left" 
+                                        data-toggle="collapse" data-target="#collapseFive">
+                                                <img src = "" width= "50" class="mr-3 rounded">
+                                                Betty posted a new comment
+                                        </button>
+
+                                    </div>
+                                    <div class="collapse" id="collapseFive" data-parent="#accordion">
+                                        <div class="card-body">
+                                            Customer Activities means to design, have designed, make,
+                                            have made, use, import, export, offer for sale, sell and/or otherwise dispose of 
+                                            Transferred IP IC Products and Successor and Combination Version IC Products.
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
