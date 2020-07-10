@@ -94,6 +94,10 @@ body {
 
 
 /*mission*/
+
+.new-color {
+    color: #e69f1c;
+}
 .mission{
   background: #151f20;
 }
@@ -137,7 +141,6 @@ body {
 }
 
 /*end of mission
-
 /* customers */
 .customers {
     background: #151f20;
